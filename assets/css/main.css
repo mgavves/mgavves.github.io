@@ -3571,6 +3571,7 @@
 			background-attachment: fixed;
 			background-image: url("images/overlay.png"), url("images/background2.jpg");
 			background-size: cover;
+			text-align: left;
 		}
 
 			.wrapper.style4 input, .wrapper.style4 select, .wrapper.style4 textarea {
