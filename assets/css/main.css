@@ -3333,6 +3333,7 @@
 			background-attachment: fixed;
 			background-image: url("images/overlay.png"), url("images/background1.jpg");
 			background-size: cover;
+			text-align: left;
 		}
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
@@ -3384,7 +3385,7 @@
 				background-color: rgba(255, 255, 255, 0.05);
 				border-color: transparent;
 				color: inherit;
-				text-align: left;
+
 			}
 
 				.wrapper.style3 input[type="text"]:focus,
