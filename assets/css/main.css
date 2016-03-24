@@ -2809,7 +2809,7 @@
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		margin-bottom: 4em;
+		margin-bottom: 1em;
 	}
 
 		.image-grid .image {
