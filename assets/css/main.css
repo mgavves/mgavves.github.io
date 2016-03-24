@@ -2800,6 +2800,19 @@
 
 /* Image Grid */
 
+	.image-grid1 {
+		.img-grid { width: 70%; }
+		.row { width: 100%; display: flex; }
+		.img { width: 100%;  }
+		.img-wrapper
+		{
+    	flex: 1;
+		}
+
+
+
+
+
 	.image-grid {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -2809,7 +2822,7 @@
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		margin-bottom: 10em;
+		margin-bottom: 4em;
 	}
 
 		.image-grid .image {
